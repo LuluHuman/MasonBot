@@ -1,0 +1,26 @@
+{
+  "name": "Mason-bot",
+  "version": "1.0.0",
+  "description": "The masonest bot",
+  "main": "index.js",
+  "keywords": [],
+  "author": "felicity1l1",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "0.1.0-canary.0",
+    "@replit/database": "^2.0.1",
+    "axios": "^0.21.1",
+    "cookies": "^0.8.0",
+    "discord-api-types": "^0.23.1",
+    "discord-buttons": "^4.0.0",
+    "discord-image-generation": "^1.4.9",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.5.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

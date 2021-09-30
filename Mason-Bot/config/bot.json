@@ -1,0 +1,15 @@
+{
+  "prefix": "-",
+  "pfp": "https://cdn.discordapp.com/attachments/852790803712573483/856383156127399946/7GX9AH7.png",
+  "defcolor": "#d88543",
+  "client_id": "",
+  "redirect_uri": "",
+  
+  "secrets": {
+    "client_secret": "",
+    "errorWebhook": "",
+    "commandWebhook": "",
+    "guildCreateWebhook": "",
+    "token": "yourMomGae"
+  }
+}
